@@ -110,7 +110,7 @@ const CouponPage = () => (
 
 const SpecialPage = () => (
   <div className="special-page">
-    <h1> Welcome to the Golden Zone! 🎉\</h1>
+    <h1> Welcome to the Golden Zone!</h1>
   </div>
 );
 
